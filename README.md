@@ -11,4 +11,4 @@ In this program you have to provide the path for the pdf file that you want to c
 By default the output files created will be stored in temp folder in the same directory.
 
 ## *Author Name*
-[jvictor15](https://github.com/jvictor15)
+[jvictorrp15](https://github.com/jvictorrp15)
